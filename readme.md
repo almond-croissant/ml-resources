@@ -17,7 +17,8 @@ Welcome to my ML learning journey! This repo contains all the resources, notes, 
 
 ### I am learning neural networks from here
 
-http://neuralnetworksanddeeplearning.com/
+- https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+-
 
 ### I am learning stastics from here
 
@@ -40,3 +41,9 @@ http://neuralnetworksanddeeplearning.com/
 [gradient] https://betterexplained.com/articles/vector-calculus-understanding-the-gradient/<br>
 [jacobian] https://machinelearningmastery.com/a-gentle-introduction-to-the-jacobian/<br>
 [hessian] https://machinelearningmastery.com/a-gentle-introduction-to-hessian-matrices/<br>
+
+### Some additional resources I use
+
+- https://www.youtube.com/watch?v=7xTGNNLPyMI
+- https://www.youtube.com/watch?v=7xTGNNLPyMI [How to use LLM's]
+-
